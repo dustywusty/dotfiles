@@ -1,0 +1,5 @@
+
+# MacPorts Installer addition on 2010-08-25_at_20:51:22: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+alias ls="ls -G"
